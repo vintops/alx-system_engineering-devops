@@ -1,2 +1,2 @@
 #!/bin/bash
-tr Ac 'Ac' 'Ze'
+tr Ac Ze
